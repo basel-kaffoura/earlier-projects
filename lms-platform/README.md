@@ -45,4 +45,4 @@ To get started with the project, follow these steps:
 
 - **Phone : +971503898795**
 
-- **<a href="https://basel-kaffoura-portfolio.vercel.app">Visit My Portfolio</a>**
+- **<a href="https://baselkaffoura.com">Visit My Portfolio</a>**
