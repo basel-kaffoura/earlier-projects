@@ -1,6 +1,6 @@
-# Earlier Laravel projects
+# Earlier projects
 
-Full-stack Laravel applications I built before my current work, kept here as code samples. For case studies of my recent work, see **[baselkaffoura.com](https://baselkaffoura.com)**.
+Full-stack web applications I built before my current work, kept here as code samples. For case studies of my recent work, see **[baselkaffoura.com](https://baselkaffoura.com)**.
 
 | Project | Stack | What it does |
 |---|---|---|
